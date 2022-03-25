@@ -1,6 +1,6 @@
 # Hi, I’m Ryan Kennedy
-- 👀 I’m interested in making beautiful and ethical full-stack web applications with a focus on speed, responsiveness, and accessibility.
-- 🌱 I’m currently learning Next.js, and Tailwindcss, and futher developing my skills with React, MongoDB, Express, and Node.
+- 👀 I’m interested in creating readable and well-written code on both the frontend and backend.
+- 🌱 I've been focused on fullstack web development recently, but I am always open to new opportunities!
 - 📫 Reach me at rckennedy15@gmail.com
 
 <!---
