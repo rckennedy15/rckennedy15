@@ -1,8 +1,7 @@
 # Hi, I’m Ryan Kennedy
-- 👀 I’m interested in creating readable and well-written code on both the frontend and backend.
+- 👀 I’m interested in frontend web development with a focus on attractive but performant UI, while maintaining an intuitve and accessible UX
 - 🎉 I am an Automation Engineer working with Tamaki Control, Ltd.
-- 🌱 I'm currently learning Induuctive Automation's Ignition platform.
-- 📫 Reach me at rckennedy15@gmail.com
+- 📫 Reach me at ryan.k@tamakicontrol.com
 
 <!---
 rckennedy15/rckennedy15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
